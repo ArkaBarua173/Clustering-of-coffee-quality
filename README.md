@@ -1,5 +1,7 @@
 # **☕ Clustering of Coffee quality**
 
+## 🔗 Link - (https://www.kaggle.com/code/arkabarua173/clustering-of-coffee-quality-k-means-pca)
+
 ## 📌 **Objective:**
 
 *   Clustering of coffee quality with PCA and K-means
